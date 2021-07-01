@@ -1,4 +1,4 @@
 # Expandable Card - Jetpack Compose | Kotlin
-Custom Expandable Card Component made with Jetpack Compose &amp; Kotlin
-
-![alt text](https://i.postimg.cc/cHsgYMYp/Expandable-Card.png)
+<p align="center">
+  <img src="https://i.postimg.cc/T15tM6wq/Expandable-Card.png">
+</p>
