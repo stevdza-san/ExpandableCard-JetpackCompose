@@ -36,7 +36,7 @@ fun ExpandableCard(
     shape: Shape = Shapes.medium,
     padding: Dp = 12.dp
 ) {
-    var expandedState by remember { mutableStateOf(true) }
+    var expandedState by remember { mutableStateOf(false) }
     val rotationState by animateFloatAsState(
         targetValue = if (expandedState) 180f else 0f
     )
